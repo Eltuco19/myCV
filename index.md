@@ -12,6 +12,6 @@ La **música** es una de las partes imprescindibles en mi vida, ya que no solo m
 
 ```markdown
 [POP SMOKE - WELCOME TO THE PARTY](https://www.youtube.com/watch?v=usu0XY4QNB0)
-[Bad Bunny - Bendiciones](https://www.youtube.com/watch?v=z2Mp_jPkAYs)
+[Bad Bunny - Bendiciones](https://guides.github.com/features/mastering-markdown/)
 
 ```
