@@ -11,7 +11,7 @@ La **música** es una de las partes imprescindibles en mi vida, ya que no solo m
 2. [Bad Bunny - Bendiciones](https://www.youtube.com/watch?v=z2Mp_jPkAYs)
 3. [Rei - Mente Gitana](https://www.youtube.com/watch?v=Pc3bQibwaGI)
 
-![ITC (CUATROVIENTOS)](one-piece-luffy-alegre.jpg)
+![Foto](one-piece-luffy-alegre.jpg)
 
 
 
