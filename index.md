@@ -5,10 +5,11 @@ En esta prueba de ***página web*** voy a contar un poco como soy.
 ## Música
 La **música** es una de las partes imprescindibles en mi vida, ya que no solo me sirve como un simple entretenimiento, me ayuda a tambiém a motivarme entre otras muchas cosas.
 <br>Escucho todo tipo de música, un día puedo estar escuchando <font color="blue">slipknot<font> y al siguiente a Raphael, aunque de normal suelo escuchar música más urbana(Trap).
+<br>Como ejemplo aquí dejo algunas de las canciones que más escucho ultimamnte.
 
 
 
 
 ```markdown
-Me gustan las lentejas
+[POP SMOKE - WELCOME TO THE PARTY](https://www.youtube.com/watch?v=usu0XY4QNB0)
 ```
