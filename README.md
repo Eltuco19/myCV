@@ -1,2 +1,2 @@
-# myCV
+# MyCV
 Un poco sobre mi
